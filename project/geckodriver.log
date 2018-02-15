@@ -17810,3 +17810,22 @@ JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtoo
 1518712519054	Marionette	INFO	Listening on port 44115
 1518712519124	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518714842836	geckodriver	INFO	geckodriver 0.19.1
+1518714842838	geckodriver	INFO	Listening on 127.0.0.1:38721
+1518714843922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XYfg2NMsjtoC"
+1518714844565	Marionette	INFO	Enabled via --marionette
+1518714846674	Marionette	INFO	Listening on port 40391
+1518714846758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
