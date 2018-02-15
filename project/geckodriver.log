@@ -17403,3 +17403,403 @@ JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtoo
 1517737425795	Marionette	INFO	Enabled via --marionette
 1517737427906	Marionette	INFO	Listening on port 45915
 1517737428008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518690834568	geckodriver	INFO	geckodriver 0.19.1
+1518690834653	geckodriver	INFO	Listening on 127.0.0.1:59217
+1518690835733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TTCQkEj0GLYa"
+1518690836392	Marionette	INFO	Enabled via --marionette
+1518690838445	Marionette	INFO	Listening on port 39215
+1518690838625	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518690875969	geckodriver	INFO	geckodriver 0.19.1
+1518690875972	geckodriver	INFO	Listening on 127.0.0.1:43869
+1518690877062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ag0BFOdING8o"
+1518690877695	Marionette	INFO	Enabled via --marionette
+1518690879618	Marionette	INFO	Listening on port 46761
+1518690879680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518690916670	geckodriver	INFO	geckodriver 0.19.1
+1518690916672	geckodriver	INFO	Listening on 127.0.0.1:55971
+1518690917764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oRjA4KERwhKF"
+1518690918438	Marionette	INFO	Enabled via --marionette
+1518690920416	Marionette	INFO	Listening on port 44855
+1518690920474	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22562, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+
+(firefox:22762): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:22762): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:22762): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:22762): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:22762): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1518706333664	geckodriver	INFO	geckodriver 0.19.1
+1518706333666	geckodriver	INFO	Listening on 127.0.0.1:36987
+1518706334763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.x9DUR7GeSSz6"
+1518706335473	Marionette	INFO	Enabled via --marionette
+1518706337531	Marionette	INFO	Listening on port 39191
+1518706337580	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:1448): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1518709385849	geckodriver	INFO	geckodriver 0.19.1
+1518709385851	geckodriver	INFO	Listening on 127.0.0.1:59769
+1518709386934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CdwuEts102C5"
+1518709387566	Marionette	INFO	Enabled via --marionette
+1518709390263	Marionette	INFO	Listening on port 42435
+1518709390348	Marionette	WARN	TLS certificate errors will be ignored for this session
