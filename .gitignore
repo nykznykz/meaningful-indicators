@@ -2,6 +2,7 @@
 *.csv
 *.txt
 *.kml
+env_creds
 geckodriver.log
 
 

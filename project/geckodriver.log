@@ -17803,3 +17803,10 @@ JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtoo
 1518709387566	Marionette	INFO	Enabled via --marionette
 1518709390263	Marionette	INFO	Listening on port 42435
 1518709390348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518712515416	geckodriver	INFO	geckodriver 0.19.1
+1518712515419	geckodriver	INFO	Listening on 127.0.0.1:57533
+1518712516509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.quIGdyAWKCXg"
+1518712517106	Marionette	INFO	Enabled via --marionette
+1518712519054	Marionette	INFO	Listening on port 44115
+1518712519124	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
